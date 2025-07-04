@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/nguyen.nguyenvo.714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.nguyenvo.714/" height="30" width="40" /></a>
-</p>
+</p> My Facebook
 
 <a href="https://discord.gg/5cSNTar8T3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5cSNTar8T3" height="30" width="40" /></a>
-</p>
+</p> 
 
 <a href="https://github.com/lewisbenj/lewisbenj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://github.com/lewisbenj/lewisbenj" height="30" width="40" /></a>
 </p>
