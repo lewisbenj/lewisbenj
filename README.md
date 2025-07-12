@@ -16,9 +16,6 @@
 - ⚡ Fun fact **"Engineering is all"**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/nguyen.nguyenvo.714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.nguyenvo.714/" height="30" width="40" /> My Facebook </a>
-</p>
 
 <a href="https://discord.gg/5cSNTar8T3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5cSNTar8T3" height="30" width="40" /> My Discord </a>
 </p> 
